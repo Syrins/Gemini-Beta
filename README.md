@@ -2,6 +2,7 @@
 
 <p align="center">
   <strong>Google's Gemini implemented with GPT-4 Vision, Whisper and Resemble AI</strong>
+  
   <strong>Google'ın Gemini'si GPT-4 Vision, Whisper ve Resemble AI ile hayata geçirildi</strong>
 </p>
 <p align="center">
