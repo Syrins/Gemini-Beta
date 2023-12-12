@@ -2,9 +2,7 @@
 
 <p align="center">
   <strong>Google's Gemini implemented with GPT-4 Vision, Whisper and Resemble AI</strong>
-  
-  <strong>Google'ın Gemini'si GPT-4 Vision, Whisper ve Resemble AI ile hayata geçirildi</strong>
-</p>
+  </p>
 <p align="center">
   This project leverages the power of AI to answer questions based on visual inputs -- like Google's Gemini demo. It integrates GPT-4 Vision for image understanding, Whisper for voice recognition, and Resemble AI for voice synthesis, creating a comprehensive system capable of interpreting visual data and responding verbally.  
   
