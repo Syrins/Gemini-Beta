@@ -1,10 +1,12 @@
 {
-    "Anahatarlar": {
-        "key": "syrins",
-        "ip": "78.135.91.63"
-    },
-    "Anahatarlar": {
-        "key": "yavie",
-        "ip": "188.119.23.68"
-    }
+    "Anahatarlar": [
+        {
+            "key": "syrins",
+            "ip": "188.132.136.135"
+        },
+        {
+            "key": "yavie",
+            "ip": "188.119.23.68"
+        }
+    ]
 }
