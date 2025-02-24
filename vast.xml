@@ -1,22 +1,19 @@
 <VAST version="3.0">
-    <Ad id="12345">
+    <Ad id="AnimTubeAd">
         <InLine>
             <AdSystem version="1.0">AnimTube Ad System</AdSystem>
             <AdTitle>AnimTube Reklamı</AdTitle>
             <Impression><![CDATA[https://animtube.com/impression-tracking-url]]></Impression>
             <Creatives>
                 <Creative>
-                    <Linear>
-                        <Duration>00:00:05</Duration>
-                        <MediaFiles>
-                            <MediaFile delivery="progressive" type="image/png">
+                    <NonLinearAds>
+                        <NonLinear width="300" height="250" scalable="true" maintainAspectRatio="true">
+                            <StaticResource creativeType="image/png">
                                 <![CDATA[https://animtube.online/upload/photos/background.png]]>
-                            </MediaFile>
-                        </MediaFiles>
-                        <VideoClicks>
-                            <ClickThrough><![CDATA[https://animtube.com]]></ClickThrough>
-                        </VideoClicks>
-                    </Linear>
+                            </StaticResource>
+                            <NonLinearClickThrough><![CDATA[https://animtube.com]]></NonLinearClickThrough>
+                        </NonLinear>
+                    </NonLinearAds>
                 </Creative>
             </Creatives>
         </InLine>
